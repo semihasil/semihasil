@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @semihasil
 - 👀 I’m interested in radar systems
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on movies
+- 💞️ I’m looking to collaborate on noone
 - 📫 How to reach me semihasil@yahoo.com.tr
 
 <!---
